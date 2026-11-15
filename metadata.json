@@ -1,0 +1,6 @@
+{
+  "name": "YouTubeX",
+  "description": "A native Android video streaming experience with Media3 ExoPlayer, adaptive playback controls, search, playlists, and persistent Room library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
